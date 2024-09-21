@@ -2,7 +2,7 @@
 👋 Hi there! I'm Gagan, a passionate developer with a keen interest in creating powerful Telegram bots and APIs. With a focus on asynchronous frameworks and efficient coding practices, I strive to build tools that make communication and data management seamless and efficient.
 
 ## 🌐 Socials:
-- [Telegram](https://t.me/devggn)
+- [Telegram](https://t.me/devgaganin)
 - [GitHub](https://github.com/devgaganin)
 - [Website](https://devgagan.in)
 
